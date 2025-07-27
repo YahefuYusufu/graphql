@@ -1,0 +1,73 @@
+const UserList = [
+	{
+		id: "1",
+		name: "John Smith",
+		userName: "johnsmith23",
+		age: 28,
+		nationality: "American",
+	},
+	{
+		id: "2",
+		name: "Maria Garcia",
+		userName: "mariagarcia",
+		age: 24,
+		nationality: "Spanish",
+	},
+	{
+		id: "3",
+		name: "Hiroshi Tanaka",
+		userName: "htanaka",
+		age: 32,
+		nationality: "Japanese",
+	},
+	{
+		id: "4",
+		name: "Emma Johnson",
+		userName: "emmaj_dev",
+		age: 27,
+		nationality: "British",
+	},
+	{
+		id: "5",
+		name: "Pierre Dubois",
+		userName: "pierred",
+		age: 35,
+		nationality: "French",
+	},
+	{
+		id: "6",
+		name: "Priya Patel",
+		userName: "priyap22",
+		age: 26,
+		nationality: "Indian",
+	},
+	{
+		id: "7",
+		name: "Lucas Silva",
+		userName: "lucassilva",
+		age: 29,
+		nationality: "Brazilian",
+	},
+	{
+		id: "8",
+		name: "Anna Mueller",
+		userName: "annamueller",
+		age: 31,
+		nationality: "German",
+	},
+	{
+		id: "9",
+		name: "Ahmed Hassan",
+		userName: "ahmedh",
+		age: 33,
+		nationality: "Egyptian",
+	},
+	{
+		id: "10",
+		name: "Sophie Chen",
+		userName: "sophiechen",
+		age: 25,
+		nationality: "Canadian",
+	},
+]
+module.exports = { UserList }
